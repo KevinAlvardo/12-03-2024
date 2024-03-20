@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/congifuracion"
+        android:title="@string/item_menu_configuracion"
+        android:icon="@drawable/baseline_settings_24"
+        app:showAsAction="always"
+        />
+
+    <item
+        android:id="@+id/user"
+        android:title="@string/item_menu_perfil"
+        android:icon="@drawable/user"
+        app:showAsAction="always"
+        />
+
+    <item
+        android:id="@+id/mapa"
+        android:title="@string/item_menu_geolocalizacion"
+        android:icon="@drawable/ubicacion"
+        app:showAsAction="ifRoom"
+        />
+
+    <item
+        android:id="@+id/nueva_cuenta"
+        android:title="@string/item_menu_nuevacuenta"
+        android:icon="@drawable/nueva_cuenta"
+        app:showAsAction="ifRoom"
+        />
+
+    <item
+        android:id="@+id/salir"
+        android:title="@string/item_menu_salir"
+        android:icon="@drawable/cerrar_sesion"
+        app:showAsAction="ifRoom"
+        />
+</menu>

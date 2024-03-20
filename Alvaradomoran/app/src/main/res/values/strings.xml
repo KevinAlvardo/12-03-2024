@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">camposlopez</string>
+    <string name="item_menu_configuracion">Configuración</string>
+    <string name="item_menu_perfil">Ver Perfil</string>
+    <string name="item_menu_geolocalizacion">Enviar mi ubicación</string>
+    <string name="item_menu_nuevacuenta">Crear Nueva Cuenta</string>
+    <string name="item_menu_salir">Cerar Sesión</string>
+    <string name="btn_nueva_activity">Abrir nueva ventana</string>
+    <string name="txt_texto_segunda_activity">Esta es la segunda activity en ejecucion</string>
+
+</resources>
